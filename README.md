@@ -1,7 +1,7 @@
 **Demo video**:
 https://drive.google.com/file/d/1_SYBj9hkbrSHbGtJosryvTB7PRyBfeEh/view?usp=sharing
 
-**Reinforcement Leanring**:
+**Reinforcement Learning**:
 ![image](https://github.com/avneets2103/Pole-game-RL/assets/93909103/689eff03-69ca-4540-a222-31b103d8d3ec)
 
 **PPO**: \
